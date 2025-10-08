@@ -8,7 +8,7 @@ image:
   repository: haikpro/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "18348734660"
+  tag: "18349102632"
 
 ingress:
   enabled: false
